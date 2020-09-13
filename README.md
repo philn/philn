@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I'm currently working on [WebKit](https://webkit.org) and [GStreamer](https://gstreamer.freedesktop.org)
+- 👷 I'm part of the worker-owned company called [Igalia](https://igalia.com)
+
+![philn's github stats](https://github-readme-stats.vercel.app/api?username=philn&show_icons=true&hide_border=true)
